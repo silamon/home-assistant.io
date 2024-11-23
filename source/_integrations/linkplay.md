@@ -33,8 +33,8 @@ The media player entity offers robust controls and playback features from the me
 
 The button entities provide some additional LinkPlay features available on the device:
 
-* **Time Sync**: Synchronize the device's internal clock with the current time in Home Assistant. 
-* **Restart Device**: Reboot the device, allowing for convenient troubleshooting and maintenance.
+- **Time Sync**: Synchronize the device's internal clock with the current time in Home Assistant. 
+- **Restart Device**: Reboot the device, allowing for convenient troubleshooting and maintenance.
 
 ## Actions
 
